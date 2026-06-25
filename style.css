@@ -131,3 +131,19 @@
 .footer-copy{
     color:white;
 }
+.OUR{
+    background-color: lightgray;
+    margin-bottom: 30px;
+    height: 400px;
+}
+.Our-staf{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+    align-items: end;
+
+}
+.parts{
+    text-align: center;
+    margin-top: 50px;
+}
